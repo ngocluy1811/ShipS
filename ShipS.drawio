@@ -740,7 +740,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of Page-3" id="Q67yHpyQ9EGfDOPuDRXW">
-    <mxGraphModel dx="2476" dy="863" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="1">
+    <mxGraphModel dx="3033" dy="1158" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="1">
       <root>
         <mxCell id="rYkgY_ysVNABAGvoiRtF-0" />
         <mxCell id="rYkgY_ysVNABAGvoiRtF-1" parent="rYkgY_ysVNABAGvoiRtF-0" />
@@ -1037,7 +1037,7 @@
         <mxCell id="rYkgY_ysVNABAGvoiRtF-119" value="&lt;div&gt;&lt;span class=&quot;text-sm px-1 rounded-sm !font-mono bg-sunset/10 text-rust dark:bg-dawn/10 dark:text-dawn&quot;&gt;password&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" vertex="1" parent="rYkgY_ysVNABAGvoiRtF-115">
           <mxGeometry y="110" width="400" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="rYkgY_ysVNABAGvoiRtF-120" value="&lt;div&gt;&lt;span class=&quot;text-sm px-1 rounded-sm !font-mono bg-sunset/10 text-rust dark:bg-dawn/10 dark:text-dawn&quot;&gt;role (admin, staff, sustomer, shipper )&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" vertex="1" parent="rYkgY_ysVNABAGvoiRtF-115">
+        <mxCell id="rYkgY_ysVNABAGvoiRtF-120" value="&lt;div&gt;&lt;span class=&quot;text-sm px-1 rounded-sm !font-mono bg-sunset/10 text-rust dark:bg-dawn/10 dark:text-dawn&quot;&gt;role (admin, staff, customer, shipper )&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" vertex="1" parent="rYkgY_ysVNABAGvoiRtF-115">
           <mxGeometry y="136" width="400" height="26" as="geometry" />
         </mxCell>
         <mxCell id="rYkgY_ysVNABAGvoiRtF-121" value="&lt;div&gt;&lt;span class=&quot;text-sm px-1 rounded-sm !font-mono bg-sunset/10 text-rust dark:bg-dawn/10 dark:text-dawn&quot;&gt;active_code&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" vertex="1" parent="rYkgY_ysVNABAGvoiRtF-115">
